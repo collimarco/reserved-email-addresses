@@ -130,3 +130,20 @@
     - do-not-reply
     - do_not_reply
     - do.not.reply
+
+- source: Azure Active Directory
+  url: https://learn.microsoft.com/en-us/azure/active-directory/enterprise-users/groups-settings-v2-cmdlets
+  description: Highly privileged email aliases that can only be created by an Azure AD global administrator.
+  addresses:
+    - abuse
+    - admin
+    - administrator
+    - hostmaster
+    - majordomo
+    - postmaster
+    - root
+    - secure
+    - security
+    - ssl-admin
+    - webmaster
+
