@@ -23,3 +23,17 @@
     - www
     - uucp
     - ftp
+
+- source: Google Groups
+  url: https://support.google.com/a/answer/6093413
+  description: Mailbox names that can't be used in Google Groups addresses.
+  addresses:
+    - abuse
+    - admin
+    - administrator
+    - hostmaster
+    - majordomo
+    - postmaster
+    - root
+    - ssl-admin
+    - webmaster
