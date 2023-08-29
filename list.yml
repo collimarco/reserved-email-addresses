@@ -53,3 +53,24 @@
   description: Mailbox name reserved by the original email standard.
   addresses:
     - postmaster
+
+- source: Salesforce
+  url: https://help.salesforce.com/s/articleView?id=sf.pardot_admin_role_based_email_address
+  description: Role-based email addresses have generic prefixes that don’t identify a specific person.
+  addresses:
+    - admin
+    - default
+    - email
+    - feedback
+    - info
+    - mail
+    - marketing
+    - news
+    - newsletter
+    - ops
+    - orders
+    - press
+    - pressrelease
+    - sales
+    - security
+
