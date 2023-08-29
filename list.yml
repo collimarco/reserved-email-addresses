@@ -42,6 +42,13 @@
     - ssl-admin
     - webmaster
 
+- source: Gmail
+  url: https://support.google.com/a/answer/178266
+  description: Reserved aliases for spam and abuse policy in Gmail and Google Workspace.
+  addresses:
+    - abuse
+    - postmaster
+
 - source: CAB Forum
   url: https://cabforum.org/baseline-requirements-documents/
   description: Mailbox names used by certificate authorities to verify ownership of a domain.
