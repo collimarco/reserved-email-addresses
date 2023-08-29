@@ -37,3 +37,14 @@
     - root
     - ssl-admin
     - webmaster
+
+- source: CAB Forum
+  url: https://cabforum.org/baseline-requirements-documents/
+  description: Mailbox names used by certificate authorities to verify ownership of a domain.
+  addresses:
+    - admin
+    - administrator
+    - webmaster
+    - hostmaster
+    - postmaster
+
