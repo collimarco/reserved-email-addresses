@@ -113,3 +113,16 @@
     - donotreply
     - no_reply
     - do-not-reply
+
+- source: Thunderbird
+  url: https://bugzilla.mozilla.org/show_bug.cgi?id=1342809
+  description: List of no-reply email addresses detected by Mozilla Thunderbird.
+  addresses:
+    - noreply
+    - no-reply
+    - no_reply
+    - no.reply
+    - donotreply
+    - do-not-reply
+    - do_not_reply
+    - do.not.reply
