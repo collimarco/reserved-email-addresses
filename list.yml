@@ -48,3 +48,8 @@
     - hostmaster
     - postmaster
 
+- source: RFC 822
+  url: https://www.ietf.org/rfc/rfc822.txt
+  description: Mailbox name reserved by the original email standard.
+  addresses:
+    - postmaster
