@@ -3,3 +3,23 @@
 # All content has to be verifiable and objective: this means that a reliable source must be present.
 # Original work or opinion based lists are not alllowed.
 # Author: Newsletter.page (https://newsletter.page)
+
+- source: RFC 2142
+  url: https://www.ietf.org/rfc/rfc2142.txt
+  description: Mailbox names listed in RFC 2142 for a common purpose.
+  addresses:
+    - info
+    - marketing
+    - sales
+    - support
+    - abuse
+    - noc
+    - security
+    - postmaster
+    - hostmaster
+    - usenet
+    - news
+    - webmaster
+    - www
+    - uucp
+    - ftp
