@@ -74,3 +74,42 @@
     - sales
     - security
 
+- source: 101domain
+  url: https://blog.101domain.com/google-workspace/most-common-email-aliases
+  description: The most common email aliases based on the data collected by 101domain.
+  addresses:
+    - info
+    - support
+    - sales
+    - contact
+    - hello
+    - editor
+    - admin
+    - webmaster
+    - privacy
+    - marketing
+    - jobs
+    - press
+    - careers
+    - help
+    - news
+    - feedback
+    - media
+    - hr
+    - advertising
+    - events
+    - pr
+    - legal
+    - team
+    - customerservice
+    - service
+    - editorial
+    - office
+    - advertise
+    - mail
+    - partners
+    - noreply
+    - no-reply
+    - donotreply
+    - no_reply
+    - do-not-reply
